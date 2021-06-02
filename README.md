@@ -24,7 +24,7 @@ key features are:
 
 
 
-## project Name :	         Mission Progress Tracker 
+## Project Name :	         Mission Progress Tracker 
 ## Developer Name :	       Ranjith Kalingeri - 9182522753 - ranji.iitb@gmail.com - doing MTECH in CS in IIIAllahabad as of 02-06-2021. 
 ## Upload Date :	         02-06-2021
 ## project Platform :      C
